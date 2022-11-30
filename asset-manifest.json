@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Mesxi/static/css/main.96fb8166.css",
+    "main.js": "/Mesxi/static/js/main.56bd1fa6.js",
+    "static/media/pilotjetslides.mp4": "/Mesxi/static/media/pilotjetslides.507c6fe9712b859cf2fa.mp4",
+    "static/media/af.mp3": "/Mesxi/static/media/af.d82eaa5d9f11426857ca.mp3",
+    "static/media/mandarine.mp3": "/Mesxi/static/media/mandarine.ac34fd9519b2d6352439.mp3",
+    "static/media/prj2.jpg": "/Mesxi/static/media/prj2.efac131b1c22d4e7d791.jpg",
+    "static/media/prj1.jpg": "/Mesxi/static/media/prj1.1bc31009a0fcaccd8bfe.jpg",
+    "static/media/abtme.jpg": "/Mesxi/static/media/abtme.79c19d5b71523207fb44.jpg",
+    "static/media/prj4.jpg": "/Mesxi/static/media/prj4.82b74b4fe806d3181f3f.jpg",
+    "static/media/prj5.jpg": "/Mesxi/static/media/prj5.18b16a435174a9866a7b.jpg",
+    "static/media/contme.jpg": "/Mesxi/static/media/contme.6d9e5f004d85bcdc3ce3.jpg",
+    "static/media/prj3.jpg": "/Mesxi/static/media/prj3.079576a94de1187dfab8.jpg",
+    "static/media/projekts.jpg": "/Mesxi/static/media/projekts.2d425dddcc9f5af8fe90.jpg",
+    "index.html": "/Mesxi/index.html",
+    "main.96fb8166.css.map": "/Mesxi/static/css/main.96fb8166.css.map",
+    "main.56bd1fa6.js.map": "/Mesxi/static/js/main.56bd1fa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96fb8166.css",
+    "static/js/main.56bd1fa6.js"
+  ]
+}
